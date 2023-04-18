@@ -1,13 +1,13 @@
 # Site
 name: "Jamal AlTaitoon"
 title: "Data Analyst"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "Data Analysis projects, latest STEM innovation news and articles"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: https://jamjt.github.io/
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#google_analytics: 'UA-46278016-1'
+#disqus: 'demowebsite'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
@@ -18,9 +18,9 @@ authors:
     display_name: Jamal AlTaitoon
     email: jamal.altaitoon@gmail.com
     web: https://jamjt.github.io/
-    twitter: https://twitter.com/wowthemesnet
+    #twitter: https://twitter.com/wowthemesnet
     linkedin: https://www.linkedin.com/in/jamalaltaitoon/
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "Data Analyst with a passion "
 
 # Plugins
 plugins:
